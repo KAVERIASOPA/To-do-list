@@ -15,7 +15,7 @@ CSS: Styling for a clean and user-friendly interface. </br>
 JavaScript: Dynamic behavior and interaction with the user. </br>
 
 # How to Use
-Clone the repository to your local machine.
-Open the index.html file in your web browser.
-Start managing your tasks by adding, completing, and removing items from the list.
-Contributing
+Clone the repository to your local machine.  </br>
+Open the index.html file in your web browser. </br>
+Start managing your tasks by adding, completing, and removing items from the list. </br>
+Contributing </br>
